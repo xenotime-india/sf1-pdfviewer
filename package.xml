@@ -6,6 +6,10 @@
         <name>ApexPage</name>
     </types>
     <types>
+        <members>PDFViewerComponent</members>
+        <name>ApexComponent</name>
+    </types>
+    <types>
         <members>pdfviewer</members>
         <name>StaticResource</name>
     </types>
